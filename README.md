@@ -6,7 +6,7 @@ Thanks to Dmitriy T.
 ## sync with the original code
 
 1. **issue a bash cmd that is actually a bash script**:
-   ```./sync
+   ```./syncing.sh
    ```
 
 2. **push your localchanges**: I still wanna my lab work gets stored on github
